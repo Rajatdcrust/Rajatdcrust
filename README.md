@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Rajatdcrust
-- 👀 I’m interested in ML,data structures,c++,python
-- 🌱 I’m currently learning ...ML
+- 👀 I’m  a software engineer
 - 📫 How to reach me rssrajatsharma@gmail.com
 
 <!---
